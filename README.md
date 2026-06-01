@@ -33,8 +33,9 @@ It grounds the model's answers directly in your corporate data, eliminating "hal
 │ and processes raw model     │      │ connections and executes    │      │ where end users drag & drop │
 │ weights without local drain │      │ Python automation scripts.  │      │ files and trigger prompts.  │
 └─────────────────────────────┘      └─────────────────────────────┘      └─────────────────────────────┘
+```
 ---
-### Features & File Intake Capabilities
+## Features & File Intake Capabilities
 Drop-and-Chat Interface: Instantly processes unstructured and messy business files including:
 
 📋 CSV & Excel: Financial sheets, inventory logs, company rosters, and metrics.
@@ -43,9 +44,8 @@ Drop-and-Chat Interface: Instantly processes unstructured and messy business fil
 
 Smart Tokenization Slicing: Avoids common tensor errors by extracting structural keys directly into target execution arrays.
 
-Free-Tier Rate Absorbency: Built-in loop handlers that sense Google API free-tier code limitations (429 Rate Limits), auto-pausing for 4 seconds before cleanly retrying without crashing the user interface.
 ---
-### Instructions for End Users
+## Instructions for End Users
 Follow these simple steps to run the application locally on your desktop machine:
 
 1. Acquire your Secure API Routing Key
